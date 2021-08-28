@@ -1,7 +1,10 @@
 # Portfolio
 
-## [Data Visualizations (R)](https://github.com/jzeyl/Data-visualizations)
-These are a series of visualizations I made from open data to practice using new techniques and methods (e.g., working with maps in R, creating a Shiny app, and using SQL queries)
+## [Data Visualizations (R, Python)](https://github.com/jzeyl/Data-visualizations)
+These are a series of visualizations I made from public data sources to practice using new analysis techniques and methods, such as:
+  -working with maps in R  
+  -creating a Shiny app
+  -using SQL queries
 
 # Working with 3D data (microCT scan data)
 ## [Ear Measure (R)](https://github.com/jzeyl/Ear-Measures)
@@ -11,6 +14,6 @@ These are a collection of scripts I ran through the [3D Slicer](https://www.slic
 
 # Statistics
 ## [Phylogenetic regressions (R)](https://github.com/jzeyl/A-T-Statistics)  
-These ran phylogenetic analyses to compare anatomy between different aquatic and terrestrial birds
+These analyses accompany a manuscript comparing anatomy between different aquatic and terrestrial birds. Scripts include phylogenetic methods (regression, PCA), and mapping traits on phylogenies.
 ## [Extract measures for comparative audiograms(R)](https://github.com/jzeyl/Scaling_2021)
-These codes automated measurements and related to anatomy in a comparative context
+These analyses accompny a manuscript examing scaling of ear anatomy across animal sizes. In addition to phylogenetic regressions, analyses automate the extraction of measurements from audiogram curves.
