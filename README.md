@@ -1,9 +1,9 @@
 # Portfolio
 
-## [Data Visualizations (R, Python)](https://github.com/jzeyl/Data-visualizations)
-These are a series of visualizations I made from public data sources to practice using new analysis techniques and methods, such as:
-  -working with maps in R  
-  -creating a Shiny app
+## [Data Visualizations (R, Python, SQL)](https://github.com/jzeyl/Data-visualizations)
+These are a series of visualizations I made from public data sources to practice using new analysis techniques and methods, such as:  
+  -working with maps in R    
+  -creating a Shiny app  
   -using SQL queries
   
  ## [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app)
