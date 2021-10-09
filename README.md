@@ -7,7 +7,7 @@ These are a series of visualizations I made from public data sources to practice
   -using SQL queries
   
  ## [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app)
- An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program, and with equivalent SQL commands.
+ An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program and with equivalent SQL commands.
 
 # Working with 3D data (microCT scan data)
 ## [Ear Measures (R)](https://github.com/jzeyl/Ear-Measures)
