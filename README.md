@@ -1,5 +1,6 @@
 # Portfolio
 
+##Data Visualizations and SQL
 ### [Data Visualizations (R, Python, SQL)](https://github.com/jzeyl/Data-visualizations)
 These are a series of visualizations I made from public data sources to practice using new analysis techniques and methods, such as:  
   * Working with maps in R    
