@@ -19,5 +19,5 @@ These are a collection of scripts I ran through the [3D Slicer](https://www.slic
 ## Statistics
 ### [Phylogenetic regressions (R)](https://github.com/jzeyl/A-T-Statistics)  
 These analyses accompany a manuscript comparing anatomy between different aquatic and terrestrial birds. Scripts include phylogenetic methods (regression, PCA), and mapping traits on phylogenies.
-### [Extract measures for comparative audiograms(R)](https://github.com/jzeyl/Scaling_2021)
-These analyses accompny a manuscript examing scaling of ear anatomy across animal sizes. In addition to phylogenetic regressions, analyses automate the extraction of measurements from audiogram curves.
+### [Extract measures for comparative audiograms (R)](https://github.com/jzeyl/Scaling_2021)
+These analyses accompany a manuscript examing scaling of ear anatomy across animal sizes. In addition to phylogenetic regressions, analyses automate the extraction of measurements from audiogram curves.
