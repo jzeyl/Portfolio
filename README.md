@@ -6,6 +6,7 @@ These are a series of visualizations I made from public data sources to practice
   * Working with maps in R    
   * Creating a Shiny app  
   * Using SQL queries
+  * 3D visualizations in R 'rgl' package
   
  ### [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app)
  An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program and with equivalent SQL commands.
