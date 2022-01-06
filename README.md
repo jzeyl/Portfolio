@@ -11,6 +11,10 @@ These are a series of visualizations I made from public data sources to practice
  ### [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app)
  An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program and with equivalent SQL commands.
 
+## Packages for scientific computing
+### [AcousticCalcs](https://github.com/jzeyl/AcousticCalcs)
+A set of convenience functions for common calculations in acoustics and audiometry.
+
 ## Working with 3D data (microCT scan data)
 ### [Ear Measures (R)](https://github.com/jzeyl/Ear-Measures)
 These are a set of R scripts that automate the I/O and run calculations on 3D coordinate files, run a series of measurements (compute distances, surface areas, angles)
