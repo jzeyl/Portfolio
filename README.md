@@ -9,7 +9,7 @@ In addition to the figures made as part of [scientific publications](https://sch
   * 3D visualizations in R 'rgl' package
   
  ### [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app)
- An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program and with equivalent SQL commands.
+ An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
 
 ## Packages for scientific computing
 ### [AcousticCalcs](https://github.com/jzeyl/AcousticCalcs)
