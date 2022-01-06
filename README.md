@@ -2,7 +2,7 @@
 
 ## Data Visualizations and SQL
 ### [Data Visualizations (R, Python, SQL)](https://github.com/jzeyl/Data-visualizations)
-These are a series of visualizations I made from public data sources to practice using new analysis techniques and methods, such as:  
+In addition to the figures made as part of [scientific publications](https://scholar.google.com/citations?user=zJmtjBYAAAAJ&hl=en) I have been involved with, here are a series of visualizations I made from public data sources to practice using new analysis techniques and methods, such as:  
   * Working with maps in R    
   * Creating a Shiny app  
   * Using SQL queries
