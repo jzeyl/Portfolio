@@ -11,9 +11,9 @@ In addition to the figures made as part of [scientific publications](https://sch
  ### [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app)
  An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
 
-## Packages for scientific computing
+## Scientific computing
 ### [AcousticCalcs](https://github.com/jzeyl/AcousticCalcs)
-A set of convenience functions for common calculations in acoustics and audiometry.
+A set of convenience functions for common calculations in acoustics and audiometry in R.
 
 ## Working with 3D data (microCT scan data)
 ### [Ear Measures (R)](https://github.com/jzeyl/Ear-Measures)
