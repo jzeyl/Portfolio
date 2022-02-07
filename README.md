@@ -8,7 +8,7 @@ In addition to the figures made as part of [scientific publications](https://sch
   * Using SQL queries
   * 3D visualizations in R 'rgl' package
   
- ### [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app)
+ ### [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app):snake:
  An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
 
 ## Scientific computing
@@ -18,7 +18,7 @@ A set of convenience functions for common calculations in acoustics and audiomet
 ## Working with 3D data (microCT scan data)
 ### [Ear Measures (R)](https://github.com/jzeyl/Ear-Measures)
 These are a set of R scripts that automate the I/O and run calculations on 3D coordinate files, run a series of measurements (compute distances, surface areas, angles)
-### [Scripts to automate tasks in 3D Slicer (Python)](https://github.com/jzeyl/3D-Slicer-Scripts)
+### [Scripts to automate tasks in 3D Slicer (Python)](https://github.com/jzeyl/3D-Slicer-Scripts):snake:
 These are a collection of scripts I ran through the [3D Slicer](https://www.slicer.org/) Python interpreter to automate commands normally done through the GUI. 
 
 ## Statistics
