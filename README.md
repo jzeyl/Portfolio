@@ -12,8 +12,9 @@ In addition to the figures made as part of [scientific publications](https://sch
  An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
  
 ### Interactive visualizations and dashboards
-Weather app using python, flask, d3 to lookup and plot the current temperature in a Canadian city:
+Weather app using python, flask, d3 to lookup and plot the current temperature in a Canadian city (using API from https://www.weatherbit.io/):
 http://jzeyl87.pythonanywhere.com/
+
 
 ## Scientific computing
 ### [AcousticCalcs](https://github.com/jzeyl/AcousticCalcs)
