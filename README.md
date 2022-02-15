@@ -1,13 +1,10 @@
 # Portfolio
 
 ## Data Viz
-### [Data Visualizations (R, Python, SQL)](https://github.com/jzeyl/Data-visualizations)
-Series of static visualizations I made from public data sources
-  * Working with maps in R    
-  * Using SQL queries
-  * 3D visualizations in R 'rgl' package
+### [Data Visualizations](https://github.com/jzeyl/Data-visualizations)
+Series of static visualizations primarily created from public data sources using R, Python, SQL, web-scraping tools.
 
-###[Dashboards]
+### Dashboards
   * A [Shiny app](https://jeff-zeyl.shinyapps.io/shiny_rent_app/?_ga=2.107511364.7932263.1627397886-968041279.1627397886)  
 
 
