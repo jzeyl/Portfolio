@@ -1,13 +1,16 @@
 # Portfolio
 
-## Data Visualizations and SQL
+## Data Viz
 ### [Data Visualizations (R, Python, SQL)](https://github.com/jzeyl/Data-visualizations)
-In addition to the figures made as part of [scientific publications](https://scholar.google.com/citations?user=zJmtjBYAAAAJ&hl=en) I have been involved with, here are a series of visualizations I made from public data sources to practice using new analysis techniques and methods, such as:  
+Series of static visualizations I made from public data sources
   * Working with maps in R    
-  * Creating a [Shiny app](https://jeff-zeyl.shinyapps.io/shiny_rent_app/?_ga=2.107511364.7932263.1627397886-968041279.1627397886)  
   * Using SQL queries
   * 3D visualizations in R 'rgl' package
-  
+
+###[Dashboards]
+  * A [Shiny app](https://jeff-zeyl.shinyapps.io/shiny_rent_app/?_ga=2.107511364.7932263.1627397886-968041279.1627397886)  
+
+
  ### [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app):snake:
  An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
  
