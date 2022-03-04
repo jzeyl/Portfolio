@@ -9,7 +9,7 @@ Series of static visualizations primarily created from public data sources using
 
 
  ### [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app):snake:
- An app to update an inventory spreadsheet based on a separate sales/estimate spreadsheet. This was done as a pure python program (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
+ A command line app to update an inventory spreadsheet based on a separate salesspreadsheet. The same task was done using pure python programming (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
  
 ### Interactive visualizations and dashboards
 Weather app using python, flask, d3 to lookup and plot the current temperature in a Canadian city (using API from https://www.weatherbit.io/):
