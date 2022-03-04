@@ -1,17 +1,17 @@
 # Portfolio
 
-## Data viz
+## Data Viz
 * [Data Visualizations](https://github.com/jzeyl/Data-visualizations) - A series of static visualizations, dashboards, and animations primarily created from public data sources using R, Python, SQL, web-scraping tools.
 
-## Python programming
+## Python Programming
  * A [command line app](https://github.com/jzeyl/Inventory-app) to update an inventory spreadsheet based on a separate salesspreadsheet. The same task was done using pure python programming (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
  
-## Web apps
+## Web Apps
 * http://jzeyl87.pythonanywhere.com/ A simple weather app created with the help of Flask, d3.js. Looks up and plots the current temperature in a Canadian city using weather api from https://www.weatherbit.io/ and geocoding from simplemaps.com:
 
 
 
-## Scientific computing
+## Scientific Computing
 * [AcousticCalcs](https://github.com/jzeyl/AcousticCalcs) - A set of convenience functions for common calculations in acoustics and audiometry in R.
 * [Ear Measures (R)](https://github.com/jzeyl/Ear-Measures) - These are a set of R scripts that automate the I/O and run calculations on 3D coordinate files, run a series of measurements (compute distances, surface areas, angles)
 * [3D Slicer Python automation functions)](https://github.com/jzeyl/3D-Slicer-Scripts):snake: -These are a collection of scripts I ran through the [3D Slicer](https://www.slicer.org/) Python interpreter to automate commands normally done through the GUI. 
