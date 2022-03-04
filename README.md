@@ -13,8 +13,8 @@
 
 ## Scientific computing
 * [AcousticCalcs](https://github.com/jzeyl/AcousticCalcs) - A set of convenience functions for common calculations in acoustics and audiometry in R.
-* Working with 3D data - [Ear Measures (R)](https://github.com/jzeyl/Ear-Measures) - These are a set of R scripts that automate the I/O and run calculations on 3D coordinate files, run a series of measurements (compute distances, surface areas, angles)
-* Working with 3D data - [Scripts to automate tasks in 3D Slicer (Python)](https://github.com/jzeyl/3D-Slicer-Scripts):snake: -These are a collection of scripts I ran through the [3D Slicer](https://www.slicer.org/) Python interpreter to automate commands normally done through the GUI. 
+* [Ear Measures (R)](https://github.com/jzeyl/Ear-Measures) - These are a set of R scripts that automate the I/O and run calculations on 3D coordinate files, run a series of measurements (compute distances, surface areas, angles)
+* [3D Slicer Python automation functions)](https://github.com/jzeyl/3D-Slicer-Scripts):snake: -These are a collection of scripts I ran through the [3D Slicer](https://www.slicer.org/) Python interpreter to automate commands normally done through the GUI. 
 
 ## Statistics
 * [Phylogenetic regressions (R)](https://github.com/jzeyl/A-T-Statistics) - These analyses accompany a manuscript comparing anatomy between different aquatic and terrestrial birds. Scripts include phylogenetic methods (regression, PCA), and mapping traits on phylogenies.
