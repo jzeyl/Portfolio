@@ -7,8 +7,8 @@ A series of static visualizations, dashboards, and animations primarily created 
  ### [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app):snake:
  A command line app to update an inventory spreadsheet based on a separate salesspreadsheet. The same task was done using pure python programming (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
  
-### Interactive visualizations and dashboards
-Weather app using python, flask, d3 to lookup and plot the current temperature in a Canadian city (using API from https://www.weatherbit.io/):
+### Web apps
+A simple weather app created with the help of Flask, d3.js. Looks up and plots the current temperature in a Canadian city using weather api from https://www.weatherbit.io/ and geocoding from simplemaps.com:
 http://jzeyl87.pythonanywhere.com/
 
 
