@@ -1,6 +1,6 @@
 # Portfolio
 
-## Data Viz
+## Data viz
 * [Data Visualizations](https://github.com/jzeyl/Data-visualizations) - A series of static visualizations, dashboards, and animations primarily created from public data sources using R, Python, SQL, web-scraping tools.
 
 ## Python programming
