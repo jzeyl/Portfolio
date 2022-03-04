@@ -2,7 +2,7 @@
 
 ## Data Viz
 ### [Data Visualizations](https://github.com/jzeyl/Data-visualizations)
-Series of static visualizations, dashboards, and animations primarily created from public data sources using R, Python, SQL, web-scraping tools.
+A series of static visualizations, dashboards, and animations primarily created from public data sources using R, Python, SQL, web-scraping tools.
 
  ### [Inventory App (Python, SQL)](https://github.com/jzeyl/Inventory-app):snake:
  A command line app to update an inventory spreadsheet based on a separate salesspreadsheet. The same task was done using pure python programming (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
