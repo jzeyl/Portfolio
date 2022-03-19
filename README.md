@@ -1,13 +1,16 @@
 # Portfolio
 
-## Data Viz
-* [Data Visualizations](https://github.com/jzeyl/Data-visualizations) - A series of static visualizations, dashboards, and animations primarily created from public data sources using R, Python, SQL, web-scraping tools.
+## [Data Visualisations](https://github.com/jzeyl/Data-visualizations)
+*R | Python | SQL| Web scraping | Tableau | Shiny*  
+A series of static visualizations, dashboards, and animations primarily created from public data sources using R, Python, SQL, web-scraping tools.
 
-## Python Programming
- * A [command line app](https://github.com/jzeyl/Inventory-app) to update an inventory spreadsheet based on a separate salesspreadsheet. The same task was done using pure python programming (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
+## [Inventory command line app](https://github.com/jzeyl/Inventory-app)
+*Python | SQL*  
+ A command line app to update an inventory spreadsheet based on a separate salesspreadsheet. The same task was done using pure python programming (using pandas, tkinter, datetime, and seaborn libraries) and with equivalent SQL commands.
  
-## Web Apps
-* http://jzeyl87.pythonanywhere.com/ A simple weather app created with the help of Flask, d3.js. Looks up and plots the current temperature in a Canadian city using weather api from https://www.weatherbit.io/ and geocoding from simplemaps.com:
+## [Web App](http://jzeyl87.pythonanywhere.com/) 
+*Flask | d3.js*  
+A simple weather app created with the help of Flask, d3.js. Looks up and plots the current temperature in a Canadian city using weather api from https://www.weatherbit.io/ and geocoding from simplemaps.com:
 
 
 
