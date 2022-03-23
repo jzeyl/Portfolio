@@ -18,7 +18,7 @@ A simple weather app created with the help of Flask, d3.js. Looks up and plots t
 *R | Python*  
 * [AcousticCalcs](https://github.com/jzeyl/AcousticCalcs) - A set of convenience functions for common calculations in acoustics and audiometry in R.
 * [Ear Measures](https://github.com/jzeyl/Ear-Measures) - A set of R scripts that automate analysis on on 3D coordinate files, including data import, running a series of measurements(compute distances, surface areas, angles).
-* [3D Slicer automation](https://github.com/jzeyl/3D-Slicer-Scripts):snake: -These are a collection of scripts I ran through the [3D Slicer](https://www.slicer.org/) Python interpreter to automate commands normally done through the GUI. 
+* [3D Slicer automation](https://github.com/jzeyl/3D-Slicer-Scripts):snake: Python scripts automating various commands normally done through the GUI of [3D Slicer](https://www.slicer.org/). To be run in the built-in Python interpreter. 
 
 ## Statistics
 *R*  
