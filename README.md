@@ -2,7 +2,7 @@
 
 ## [Data Visualisations](https://github.com/jzeyl/Data-visualizations)
 *R | Python | Tableau | Shiny*  
-A series of static visualizations, dashboards, and animations primarily created from public data sources using R, Python. All created with 100% code.
+A series of static visualizations, dashboards, and animations generated mostly from various from public data sources using R, Python. All data fetching, cleaning, and plotting done 100% with code.
 
 ## Statistics
 *R*  
