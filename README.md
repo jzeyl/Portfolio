@@ -6,7 +6,7 @@ A series of static visualizations, dashboards, and animations generated mostly f
 
 ## Statistics
 *R*  
-* [Phylogenetic regressions](https://github.com/jzeyl/A-T-Statistics) - These analyses accompany a manuscript comparing anatomy between different aquatic and terrestrial birds. Scripts include phylogenetic methods (regression, PCA), and mapping traits on phylogenies.
+* [Phylogenetic regressions](https://github.com/jzeyl/A-T-Statistics) - These analyses accompany a [paper published in Scientific Reports](https://www.nature.com/articles/s41598-022-09090-3?utm_medium=social&utm_source=twitter&utm_content=organic&utm_term=null&utm_campaign=CONR_41598_AWA1_GL_PHSS_BRAND_OAXOrganic) comparing anatomy between different aquatic and terrestrial birds. Scripts include phylogenetic methods (regression, PCA), and mapping traits on phylogenies.
 * [Extract measures for comparative audiograms](https://github.com/jzeyl/Scaling_2021) - These analyses accompany a manuscript examing scaling of ear anatomy across animal sizes. In addition to phylogenetic regressions, analyses automate the extraction of measurements from audiogram curves.
 
 ## SQL queries and databases
